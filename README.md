@@ -6,9 +6,9 @@ The messages are inserted into the page html and because there is no database in
 
 # Installation
 
-Clone the repo into the desired directory.
-Run 'npm install' in console
-Run 'node server.js' in console
-Run 'ng build' in a second console
-
-If local, navigate to localhost:3000, and open multiple browsers to see the action!
+Clone the repo into the desired directory.  
+Run 'npm install' in console  
+Run 'node server.js' in console  
+Run 'ng build' in a second console  
+  
+If local, navigate to localhost:3000, and open multiple browsers to see the action!  
